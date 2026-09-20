@@ -1,0 +1,434 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Fuji TV
+DESCRIPTION:Scopper Gaban\, the Pirate King's Left Arm\, appears before th
+ e captured and immobilized Straw Hats\, launching a counteroffensive agai
+ nst the Knights of God. Gunko\, however\, uncovers his weakness.
+DTEND:20260920T144000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260920T141500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:One Piece - 23x24 - One Do-or-Die Second - Gaban vs. the Knights o
+ f God
+UID:NzbDrone_episode_21758
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DESCRIPTION:Now in business with his brother Marcus\, John is on the verge
+  of landing a major investor for his innovative take on panic rooms when 
+ an unexpected phone call pulls him back to Rushville - and everything he 
+ worked so hard to leave behind.
+DTEND:20260921T015200Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260921T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lanterns - 1x06 - Bad Optics
+UID:NzbDrone_episode_21668
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FXX
+DESCRIPTION:Mac and Charlie drink the proverbial Kool-Aid while trying to 
+ uncover the mystery of why 'Gilligan's Island' never made it to 100 episo
+ des.
+DTEND:20260922T022500Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260922T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:It's Always Sunny in Philadelphia - 18x07 - Gilligan's Island: A C
+ onspiracy Theorist's Paradise
+UID:NzbDrone_episode_21680
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Keshet 12
+DTEND:20260922T185600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260922T183000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Life is Difficult (IL) - 2x04 - TBA
+UID:NzbDrone_episode_22028
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:The Lady Greyhounds navigate a difficult setback. Roy and Keel
+ ey prepare for the Wall of Legends.
+DTEND:20260923T044300Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260923T040000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Ted Lasso - 4x08 - Follow the Anger
+UID:NzbDrone_episode_21165
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:The reemergence of Frank Harkness and a suspicious string of m
+ urders put Lamb and team on high alert.
+DTEND:20260923T044600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260923T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Slow Horses - 6x02 - Daddy Issues
+UID:NzbDrone_episode_21422
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:With Conrad's self-control slipping\, Maeve make plans of her 
+ own while Jan hits Harry with a hard truth. Smelling blood\, Frankie and 
+ Tattersall circle like sharks.
+DTEND:20260925T074700Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260925T070000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MobLand - 2x02 - Song 2
+UID:NzbDrone_episode_19095
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Fuji TV
+DTEND:20260927T144000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260927T141500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:One Piece - 23x25 - Elbaph in Despair - Diabolical Covenant\, 'Dom
+ i Reversi
+UID:NzbDrone_episode_21992
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20260928T015200Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260928T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lanterns - 1x07 - The Jordan Boy’s Legacy
+UID:NzbDrone_episode_21669
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FXX
+DESCRIPTION:After a Christmas card catastrophe\, Charlie nurses a bedridde
+ n Mac and Dennis and deliberates on which one is the originator of all th
+ eir ideas. Dee and Frank are tired of being the bottom of the communicati
+ on ladder and decide to flip the script.
+DTEND:20260929T022500Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260929T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:It's Always Sunny in Philadelphia - 18x08 - Mac and Dennis Tear Th
+ eir ACLs
+UID:NzbDrone_episode_21681
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Keshet 12
+DTEND:20260929T185600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260929T183000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Life is Difficult (IL) - 2x05 - TBA
+UID:NzbDrone_episode_22029
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:Morale is low\, but the stakes have never been higher. Mae joi
+ ns the team on the road. Keeley has news.
+DTEND:20260930T044300Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260930T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ted Lasso - 4x09 - Mae Rides the Bus
+UID:NzbDrone_episode_21166
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:Ex–Slow Horses return to the fold as assassins close in. Taver
+ ner faces the fallout of her TV interview.
+DTEND:20260930T044600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20260930T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Slow Horses - 6x03 - Resurrection
+UID:NzbDrone_episode_21423
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:J.D. enlists Turk and Elliot to help with Dr. Cox’s care. Mean
+ while\, Elliot finds an unexpected burst of confidence years in the makin
+ g.
+DTEND:20261001T002100Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261001T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x01 - My First Time in a While
+UID:NzbDrone_episode_21657
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:J.D. attempts an insurance workaround\, creating tension with 
+ his new mentee. Meanwhile\, Elliot tries to guide Tosh’s specialty choice
+ s\, and Turk flexes his own skills as a mentor.
+DTEND:20261001T004200Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261001T002100Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x02 - My Mentee
+UID:NzbDrone_episode_21658
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Maeve probes Conrad for secrets\, positioning herself against 
+ threats old and new. As Frankie forces a high-stakes sit-down\, Kevin and
+  Harry game out their strategy.
+DTEND:20261002T074700Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261002T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x03 - Bonzo Goes to Bitburg
+UID:NzbDrone_episode_19096
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20261005T015200Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261005T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Lanterns - 1x08 - TBA
+UID:NzbDrone_episode_21670
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FXX
+DESCRIPTION:In an effort to clean up their image\, Paddy's sponsors a loca
+ l Little League team. But when The Gang spots softness in their franchise
+ \, they impose a radical new culture: win no matter what and do whatever 
+ it takes to get ahead.
+DTEND:20261006T022500Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261006T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:It's Always Sunny in Philadelphia - 18x09 - Frank's Team: A Dark D
+ ay for Baseball
+UID:NzbDrone_episode_21682
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DTEND:20261007T044300Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261007T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Ted Lasso - 4x10 - TBA
+UID:NzbDrone_episode_21167
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:Lamb tries figuring out who Frank is working for. Sid\, River\
+ , and Coe do everything to evade the hit squad.
+DTEND:20261007T044600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261007T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Slow Horses - 6x04 - Lost & Found
+UID:NzbDrone_episode_21424
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20261008T002100Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261008T000000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x03 - My Ex's Ex
+UID:NzbDrone_episode_21659
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20261008T005100Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261008T003000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Abbott Elementary - 6x01 - Jungle Classroom
+UID:NzbDrone_episode_21656
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261009T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261009T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x01 - TBA
+UID:NzbDrone_episode_21759
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261009T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261009T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x02 - TBA
+UID:NzbDrone_episode_21760
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261009T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261009T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x03 - TBA
+UID:NzbDrone_episode_21761
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:The Harrigans reel from an unexpected turn of events\, trigger
+ ing Harry to do damage control before police scrutiny closes in. Maeve's 
+ unseen hand moves Eddie out of London as Seraphina makes a new alliance a
+ nd Conrad re-asserts his dominance.
+DTEND:20261009T074700Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261009T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x04 - Blank Curtain
+UID:NzbDrone_episode_19097
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:FXX
+DESCRIPTION:Blinded from LASIK surgery\, Dee pleads for the guys to spend 
+ the night to keep her safe from neighborhood crime\, but they listen to t
+ he wolves inside themselves and opt for a dudes-only sleepover of their o
+ wn.
+DTEND:20261013T022500Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261013T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:It's Always Sunny in Philadelphia - 18x10 - The Guys Have a Sleepo
+ ver
+UID:NzbDrone_episode_21683
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:River goes after Sid. Lamb sets his sights on Cantor. Taverner
+  carries on with a treacherous deal.
+DTEND:20261014T044600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261014T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Slow Horses - 6x05 - Sayonara
+UID:NzbDrone_episode_21425
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261016T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261016T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x04 - TBA
+UID:NzbDrone_episode_21762
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261016T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261016T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x05 - TBA
+UID:NzbDrone_episode_21763
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261016T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261016T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x06 - TBA
+UID:NzbDrone_episode_21764
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261016T074700Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261016T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x05 - Birdland
+UID:NzbDrone_episode_19098
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Apple TV
+DESCRIPTION:The safe house becomes unsafe as Lamb and Taverner finally joi
+ n forces.
+DTEND:20261021T044600Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261021T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Slow Horses - 6x06 - Judgement Day
+UID:NzbDrone_episode_21426
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261023T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x07 - TBA
+UID:NzbDrone_episode_21765
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261023T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x08 - TBA
+UID:NzbDrone_episode_21766
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T040000Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261023T040000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Avatar: Seven Havens - 1x09 - TBA
+UID:NzbDrone_episode_21767
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DTEND:20261023T074700Z
+DTSTAMP:20260926T030001Z
+DTSTART:20261023T070000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x06 - A Different Corner
+UID:NzbDrone_episode_19099
+END:VEVENT
+END:VCALENDAR
