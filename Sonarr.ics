@@ -1,0 +1,493 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Host Trixie Mattel is joined by Ashley Lyle and Bart Nickerson
+ \, the creators and executive producers of Yellowjackets! Trixie asks all
+  of her pressing questions about what to expect on season 4\, including "
+ IS SHAUNA OKAY?
+DTEND:20261122T025700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261122T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 0x01 - What If Shauna Sucks? | Yellowjackets: Home
+ coming
+UID:NzbDrone_episode_22207
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Everyone comes home. Not everyone comes back. That's what the 
+ therapists are gonna tell you\, anyway. Tonight\, the team faces an inqui
+ sition sooner than they ever imagined.
+DTEND:20261123T025700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261123T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Yellowjackets - 4x01 - Hivemind
+UID:NzbDrone_episode_21201
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:It's Thanksgiving at the Dinkins house and Brina is eager to p
+ rove herself to Reggie's mother\, Gigi.
+DTEND:20261124T015200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T013000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x04 - Turkey Can Be This
+UID:NzbDrone_episode_22149
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Day one of a summer archaeological dig in Greece. Neville anno
+ unces he's retiring and Elise will take over. Dylan returns after five ye
+ ars and learns her ex is newly engaged to Clare. Neville's assistant Patt
+ y is in over her head.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x01 - Pilot
+UID:NzbDrone_episode_21675
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise tries to keep a secret from Neville. Patty and Clare tra
+ ck down missing equipment at a nearby hotel. Dylan finds herself caught b
+ etween loyalty to Elise and her feelings for Gary.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x02 - Pretty Woman
+UID:NzbDrone_episode_22160
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise and Neville woo a potential donor. Clare sends Patty to 
+ spy on Dylan to see how she feels about Gary. Dylan helps Patty find a di
+ rt crush.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x03 - Dirt Crush
+UID:NzbDrone_episode_22167
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise and Patty go on a mission. Elise learns about her life b
+ efore the dig. Clare and Dylan track down Stavros to try to find out why 
+ the dig doesn't have supplies.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x04 - How to Tell If You Are a Demigod
+UID:NzbDrone_episode_22168
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:With Patty's help\, Elise tries to give Neville a great day. D
+ ylan has a surprise encounter with a linguistics professor. Clare tries t
+ o prove to Gary that she's whimsical.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x05 - Hog's Big Day
+UID:NzbDrone_episode_22169
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Neville and Elise head to Athens to face the music. Clare and 
+ Dylan go drinking and get to the truth about Clare's mom. Patty and Gary 
+ go for gelato.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x06 - Best Person in the World
+UID:NzbDrone_episode_22170
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise investigates her first real suspect. Dylan and Patty hea
+ d out on a spy mission. Clare and Neville search the Ugg dorm rooms for c
+ ontraband.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x07 - Toss the Rooms
+UID:NzbDrone_episode_22171
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise and Dylan crash a garden party looking for their main su
+ spect. Clare bonds with her mom\, then gets a job offer. Patty finds an u
+ nexpected way to build her confidence. Neville and Gary chat about life.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x08 - To Catch a Branzino
+UID:NzbDrone_episode_22172
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:On the last night of the dig\, Elise\, Dylan\, Clare and Patty
+  make a breakthrough in the case. Gary returns from a harrowing journey. 
+ Elise and Neville reminisce.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x09 - Only You
+UID:NzbDrone_episode_22173
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:The women put it all together\, but might not be able to get o
+ ut of this unscathed.
+DTEND:20261124T083200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261124T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dig (2026) - 1x10 - Last Day
+UID:NzbDrone_episode_22174
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Sauron seeks to complete the One Ring.
+DTEND:20261125T090700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261125T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x07 - Orodruin
+UID:NzbDrone_episode_21630
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:The Making of Season 3
+DTEND:20261125T090700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261125T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lord of the Rings: The Rings of Power - 0x37 - The Forging Of 
+ Season 3. Episode 7
+UID:NzbDrone_episode_22208
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:With Sauron's victory at hand\, the forces of good and evil as
+ semble to decide the fate of Middle-earth.
+DTEND:20261125T101400Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261125T090700Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x08 - The Doom of Men
+UID:NzbDrone_episode_21631
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:The Making of Season 3
+DTEND:20261125T101400Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261125T090700Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lord of the Rings: The Rings of Power - 0x38 - The Forging Of 
+ Season 3. Episode 8
+UID:NzbDrone_episode_22209
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Here we see that Natalie's return from walking in the spiderwe
+ bs isn't the salvation it once seemed\, especially for Shauna. With new n
+ eighbors\, a change in leadership\, and the pressures of society all bear
+ ing down\, you better light your candles.
+DTEND:20261128T025700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261128T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Yellowjackets - 4x02 - Human Interest
+UID:NzbDrone_episode_21202
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20261203T012100Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261203T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x09 - My Worthless Peon
+UID:NzbDrone_episode_22128
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:The Abbott Elementary staff chaperones the step team on a memo
+ rable trip to Disneyland Resort.
+DTEND:20261203T015100Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261203T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Abbott Elementary - 6x07 - One Hundred
+UID:NzbDrone_episode_22138
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:Ate already? Good\, because the official '96 Yellowjackets mem
+ orial service is now in session.
+DTEND:20261207T025700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261207T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 4x03 - She's Made of Iron\, Sir
+UID:NzbDrone_episode_21203
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:The Dinkins and the Basmatis team up to break up Carmelo and D
+ elilah's relationship\, while Arthur faces an unexpected rival.
+DTEND:20261208T015200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261208T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x05 - A Glove Full of Puddi
+ ng
+UID:NzbDrone_episode_22161
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Over Christmas\, J.D. and Dr. Cox work together on a tricky ca
+ se. Meanwhile\, Elliot manages an ER overflowing with patients and a surp
+ rising amount of holiday cheer.
+DTEND:20261210T012100Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261210T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x10 - My Wonderful Life
+UID:NzbDrone_episode_22129
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Jacob's parents visit for the holidays\, while Barbara contend
+ s with some of her students falling behind.
+DTEND:20261210T015100Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261210T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Abbott Elementary - 6x08 - Parents
+UID:NzbDrone_episode_22139
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:You better bring your a-game tonight\, because DJ Nietzsche is
+  in the house at Wiskayok's most existential karaoke joint. Meanwhile\, M
+ isty attends a dinner party\, and Natalie tries walking a straighter edge
+ .
+DTEND:20261212T025700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261212T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 4x04 - Burnout
+UID:NzbDrone_episode_22031
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20261215T015200Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261215T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x06 - Reggie Finally Kills 
+ Dracula
+UID:NzbDrone_episode_22162
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Episode 1
+DTEND:20261216T085500Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261216T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Beast Games - 3x01 - Episode 1
+UID:NzbDrone_episode_22229
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Episode 2
+DTEND:20261216T095000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261216T085500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Beast Games - 3x02 - Episode 2
+UID:NzbDrone_episode_22230
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Episode 3
+DTEND:20261216T104500Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261216T095000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Beast Games - 3x03 - Episode 3
+UID:NzbDrone_episode_22231
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x01 - You Say You Want a Revolution
+UID:NzbDrone_episode_21129
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x02 - The Jerk
+UID:NzbDrone_episode_22041
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x03 - A Star Is Burped
+UID:NzbDrone_episode_22042
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x04 - Dad Weed
+UID:NzbDrone_episode_22043
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x05 - The Full Teddy
+UID:NzbDrone_episode_22044
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x06 - A Very Bennett Thanksgiving
+UID:NzbDrone_episode_22045
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x07 - Cookie Monsters
+UID:NzbDrone_episode_22046
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DTEND:20261217T080000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261217T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:ted: the animated series - 1x08 - Beary Christmas
+UID:NzbDrone_episode_22047
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DESCRIPTION:The Yellowjackets return to high school and learn to put the '
+ u' in 'trauma.' Gen worries that the gods will not save them. Misty tries
+  making friends and winning hearts while Geraldine comes along for a ride
+  to re-up on the connect.
+DTEND:20261219T025700Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261219T020000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 4x05 - Feed on the Weak
+UID:NzbDrone_episode_22032
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Episode 4
+DTEND:20261223T085500Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261223T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Beast Games - 3x04 - Episode 4
+UID:NzbDrone_episode_22232
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Episode 5
+DTEND:20261223T095000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261223T085500Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Beast Games - 3x05 - Episode 5
+UID:NzbDrone_episode_22233
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:HBO
+DTEND:20261225T050000Z
+DTSTAMP:20261128T040002Z
+DTSTART:20261225T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Harry Potter - 1x01 - The Boy Who Lived
+UID:NzbDrone_episode_18733
+END:VEVENT
+END:VCALENDAR
