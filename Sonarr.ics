@@ -1,0 +1,502 @@
+BEGIN:VCALENDAR
+NAME:Sonarr TV Schedule
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:Sonarr TV Schedule
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:Tobin and Rusty both attempt to become financially independent
+  from the Dinkins family\, but Reggie has other ideas.
+DTEND:20261110T015200Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261110T013000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x02 - The Spaghetti Loop
+UID:NzbDrone_episode_22133
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Disney+
+DESCRIPTION:Vision’s quest to embrace his true identity comes to a close.
+DTEND:20261111T025400Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261111T020000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:VisionQuest - 1x08 - Forever
+UID:NzbDrone_episode_22115
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:War rages between the Elves and Sauron. Galadriel remembers a 
+ long-lost love. Durin welcomes home his brother… and another unexpected g
+ uest.
+DTEND:20261111T090800Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261111T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x01 - Marnûkh
+UID:NzbDrone_episode_21214
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Tumult grips Númenor. Theo is offered a new path. The Dwarves 
+ weigh their options. The Elves learn of Sauron's plan - and debate a peri
+ lous mission.
+DTEND:20261111T090800Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261111T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x02 - The Gift of Men
+UID:NzbDrone_episode_21625
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:Gandalf works to keep Rhûn out of the war. Elendil hunts a spy
+ . Marnûkh leads Galadriel and Arondir to Gundabad as Sauron questions the
+  orc's agenda.
+DTEND:20261111T090800Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261111T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x03 - The Secret Fire
+UID:NzbDrone_episode_21626
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DESCRIPTION:At Gundabad\, our heroes find less than they came for and more
+  than they expected. Elrond brings Gil-galad an urgent mission. Durin def
+ ends his throne.
+DTEND:20261111T090800Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261111T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x04 - Gundabad
+UID:NzbDrone_episode_21627
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:When an overflowing ER sparks chaos within the hospital\, J.D.
+  is surprised to learn the reason why. Meanwhile\, Turk mentors Dashana i
+ n her personal life.
+DTEND:20261112T012100Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T010000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Scrubs (2026) - 2x08 - My Emergency
+UID:NzbDrone_episode_22127
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Ava recruits Janine to prepare the step team for a competition
+ \, and Melissa calls in a favor for Gregory.
+DTEND:20261112T015100Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T013000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Abbott Elementary - 6x06 - Competition
+UID:NzbDrone_episode_22135
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x01 - TBA
+UID:NzbDrone_episode_22142
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x02 - TBA
+UID:NzbDrone_episode_22143
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x03 - TBA
+UID:NzbDrone_episode_22144
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x04 - TBA
+UID:NzbDrone_episode_22145
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x05 - TBA
+UID:NzbDrone_episode_22146
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x06 - TBA
+UID:NzbDrone_episode_22147
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x07 - TBA
+UID:NzbDrone_episode_22175
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x08 - TBA
+UID:NzbDrone_episode_22176
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Netflix
+DTEND:20261112T053500Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261112T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Bros - 2x09 - TBA
+UID:NzbDrone_episode_22177
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Frankie goes full nuclear\, kicking a plan into gear. Eddie is
+  tasked with a final chance to prove his worth as Maeve and Conrad chase 
+ one last mad score. Harry stares down a standoff.
+DTEND:20261113T084700Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261113T080000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:MobLand - 2x09 - Nervous Breakdown
+UID:NzbDrone_episode_19102
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DESCRIPTION:For the first time since the divorce\, Moncia is in a serious 
+ relationship\, and Reggie is having trouble accepting it\; Brina pursues 
+ an exciting new opportunity in her music career.
+DTEND:20261117T015200Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261117T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x03 - Hulk Want Candy
+UID:NzbDrone_episode_22134
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20261118T090800Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261118T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x05 - TBA
+UID:NzbDrone_episode_21628
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20261118T101600Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261118T090800Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x06 - TBA
+UID:NzbDrone_episode_21629
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+
+DESCRIPTION:Coordinated raids set the Harrigans' empire on fire. With Conr
+ ad's blessing Harry cuts a savage deal. Meanwhile\, Maeve turns the volta
+ ge up as Frankie takes a massive gamble and Eddie bottles it again. Seaso
+ n finale.
+DTEND:20261120T084700Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261120T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:MobLand - 2x10 - The Queen is Dead
+UID:NzbDrone_episode_19103
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DTEND:20261123T015700Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 4x01 - Hivemind
+UID:NzbDrone_episode_21201
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Day one of a summer archaeological dig in Greece. Neville anno
+ unces he's retiring and Elise will take over. Dylan returns after five ye
+ ars and learns her ex is newly engaged to Clare. Neville's assistant Patt
+ y is in over her head.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x01 - Pilot
+UID:NzbDrone_episode_21675
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise tries to keep a secret from Neville. Patty and Clare tra
+ ck down missing equipment at a nearby hotel. Dylan finds herself caught b
+ etween loyalty to Elise and her feelings for Gary.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x02 - Pretty Woman
+UID:NzbDrone_episode_22160
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise and Neville woo a potential donor. Clare sends Patty to 
+ spy on Dylan to see how she feels about Gary. Dylan helps Patty find a di
+ rt crush.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x03 - Dirt Crush
+UID:NzbDrone_episode_22167
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise and Patty go on a mission. Elise learns about her life b
+ efore the dig. Clare and Dylan track down Stavros to try to find out why 
+ the dig doesn't have supplies.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x04 - How To Tell If You are A Demigod
+UID:NzbDrone_episode_22168
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:With Patty's help\, Elise tries to give Neville a great day. D
+ ylan has a surprise encounter with a linguistics professor. Clare tries t
+ o prove to Gary that she's whimsical.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x05 - Hog's Big Day
+UID:NzbDrone_episode_22169
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Neville and Elise head to Athens to face the music. Clare and 
+ Dylan go drinking and get to the truth about Clare's mom. Patty and Gary 
+ go for gelato.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x06 - Best Person in the World
+UID:NzbDrone_episode_22170
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise investigates her first real suspect. Dylan and Patty hea
+ d out on a spy mission. Clare and Neville search the Ugg dorm rooms for c
+ ontraband.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x07 - Toss the Rooms
+UID:NzbDrone_episode_22171
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:Elise and Dylan crash a garden party looking for their main su
+ spect. Clare bonds with her mom\, then gets a job offer. Patty finds an u
+ nexpected way to build her confidence. Neville and Gary chat about life.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x08 - To Catch a Branzino
+UID:NzbDrone_episode_22172
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:On the last night of the dig\, Elise\, Dylan\, Clare and Patty
+  make a breakthrough in the case. Gary returns from a harrowing journey. 
+ Elise and Neville reminisce.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x09 - Only You
+UID:NzbDrone_episode_22173
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Peacock
+DESCRIPTION:The women put it all together\, but might not be able to get o
+ ut of this unscathed.
+DTEND:20261123T050000Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261123T050000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Dig (2026) - 1x10 - Last Day
+UID:NzbDrone_episode_22174
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20261124T015200Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261124T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x04 - Turkey Can Be This
+UID:NzbDrone_episode_22149
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20261125T090800Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261125T080000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x07 - TBA
+UID:NzbDrone_episode_21630
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Prime Video
+DTEND:20261125T101600Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261125T090800Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Lord of the Rings: The Rings of Power - 3x08 - TBA
+UID:NzbDrone_episode_21631
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DTEND:20261130T015700Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261130T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 4x02 - Human Interest
+UID:NzbDrone_episode_21202
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20261203T012100Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261203T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x09 - TBA
+UID:NzbDrone_episode_22128
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DTEND:20261203T015100Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261203T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Abbott Elementary - 6x07 - One Hundred
+UID:NzbDrone_episode_22138
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Paramount+ with Showtime
+DTEND:20261207T015700Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261207T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Yellowjackets - 4x03 - She's Made of Iron\, Sir
+UID:NzbDrone_episode_21203
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:NBC
+DTEND:20261208T015200Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261208T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:The Fall and Rise of Reggie Dinkins - 2x05 - A Glove Full of Puddi
+ ng
+UID:NzbDrone_episode_22161
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Over Christmas\, J.D. and Dr. Cox work together on a tricky ca
+ se. Meanwhile\, Elliot manages an ER overflowing with patients and a surp
+ rising amount of holiday cheer.
+DTEND:20261210T012100Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261210T010000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Scrubs (2026) - 2x10 - My Wonderful Life
+UID:NzbDrone_episode_22129
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ABC (US)
+DESCRIPTION:Jacob's parents visit for the holidays\, while Barbara contend
+ s with some of her students falling behind.
+DTEND:20261210T015100Z
+DTSTAMP:20261114T040001Z
+DTSTART:20261210T013000Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:Abbott Elementary - 6x08 - Parents
+UID:NzbDrone_episode_22139
+END:VEVENT
+END:VCALENDAR
